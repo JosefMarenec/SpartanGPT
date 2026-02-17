@@ -1,0 +1,16 @@
+{
+  "source_directories": [
+    "src"
+  ],
+  "search_path": [
+    "venv/lib/python3.14/site-packages"
+  ],
+  "exclude": [
+    ".git",
+    "venv",
+    "build",
+    "dist",
+    "__pycache__"
+  ],
+  "strict": false
+}
