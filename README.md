@@ -1,4 +1,4 @@
-# GatorGPT
+# SpartanGPT
 
 GatorGPT is a lightweight 63M parameter transformer-based language model trained on the TinyStories dataset. It features modern architectural components including Grouped Query Attention (GQA), Rotary Positional Encoding (RoPE), and SwiGLU activation.
 
